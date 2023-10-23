@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{531B1AC4-F312-4F52-9EFF-8A99D8736DF3}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45222.3244791667" objectName="Aliases.browser.pageSwagLabs.textboxUserName" objectLeft="700" objectTop="336" objectRight="1138" objectBottom="395" clickPointX="782" clickPointY="360" imageFileName="tcvi72571968203483.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45222.3245138889" objectName="Aliases.browser.pageSwagLabs.textboxUserName" objectLeft="700" objectTop="336" objectRight="1138" objectBottom="395" clickPointX="-1" clickPointY="-1" imageFileName="tcvi72573109203484.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45222.324537037" objectName="Aliases.browser.pageSwagLabs.passwordboxPassword" objectLeft="700" objectTop="417" objectRight="1138" objectBottom="476" clickPointX="787" clickPointY="463" imageFileName="tcvi72577640203485.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="45222.3245833333" objectName="Aliases.browser.pageSwagLabs.passwordboxPassword" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi72579515203486.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="45222.3246412037" objectName="Aliases.browser.pageSwagLabs.submitbuttonLogin" objectLeft="700" objectTop="559" objectRight="1138" objectBottom="632" clickPointX="871" clickPointY="592" imageFileName="tcvi72586140203487.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
